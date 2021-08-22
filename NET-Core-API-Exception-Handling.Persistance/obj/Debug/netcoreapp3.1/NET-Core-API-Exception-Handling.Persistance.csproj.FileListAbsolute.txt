@@ -1,0 +1,14 @@
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Persistance\obj\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Persistance.csproj.AssemblyReference.cache
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Persistance\obj\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Persistance.AssemblyInfoInputs.cache
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Persistance\obj\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Persistance.AssemblyInfo.cs
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Persistance\obj\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Persistance\bin\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Persistance.deps.json
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Persistance\bin\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Persistance.dll
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Persistance\bin\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Persistance.pdb
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Persistance\bin\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Application.dll
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Persistance\bin\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Domain.dll
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Persistance\bin\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Application.pdb
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Persistance\bin\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Domain.pdb
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Persistance\obj\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Persistance.csproj.CopyComplete
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Persistance\obj\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Persistance.dll
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Persistance\obj\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Persistance.pdb

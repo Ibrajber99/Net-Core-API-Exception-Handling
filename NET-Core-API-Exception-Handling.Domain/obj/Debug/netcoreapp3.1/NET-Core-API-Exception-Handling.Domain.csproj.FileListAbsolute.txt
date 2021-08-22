@@ -1,0 +1,9 @@
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Domain\bin\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Domain.deps.json
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Domain\bin\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Domain.dll
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Domain\bin\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Domain.pdb
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Domain\obj\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Domain.csproj.AssemblyReference.cache
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Domain\obj\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Domain.AssemblyInfoInputs.cache
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Domain\obj\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Domain.AssemblyInfo.cs
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Domain\obj\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Domain\obj\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Domain.dll
+C:\Users\jber5\OneDrive\Desktop\NET-Core-API-Exception-Handling\NET-Core-API-Exception-Handling.Domain\obj\Debug\netcoreapp3.1\NET-Core-API-Exception-Handling.Domain.pdb
